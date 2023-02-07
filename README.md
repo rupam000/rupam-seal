@@ -1,4 +1,4 @@
-![animated_medium20210604-2321-1hurf14](https://user-images.githubusercontent.com/104382853/217147928-9bf6a8b7-d67f-4cf3-a26c-0b97eebef736.gif)
+<img src="https://user-images.githubusercontent.com/104382853/217148360-b95a8fb3-535e-46e3-842d-7b1dc3abeea9.gif" width="100%"/>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=rupam-seal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
