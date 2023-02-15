@@ -1,3 +1,5 @@
+<h1 align="center">こんにちは<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Rupam!  </h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=rupam-seal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ###### 02-07-2023 to present
