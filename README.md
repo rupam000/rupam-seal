@@ -18,6 +18,6 @@
 <img src="https://streak-stats.demolab.com?user=rupam-seal&theme=dark">
 </div>
                                                                                                                                    
-If you liked my profile, you can star⭐the repo and if you want to use this template you can fork it and use it.
+<div align='center' style="width: 84%; max-width: 100%; min-width: 100%;"><h3>If you liked my profile, you can star⭐the repo and if you want to use this template you can fork it and use it. </h3> </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) (https://dribbble.com/romainbriaux) -->
