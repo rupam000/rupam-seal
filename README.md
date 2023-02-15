@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Rupam!  </h1>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/104382853/217149894-9fc2da0a-aca9-4a67-bc3f-5a2d6f48d40d.gif" style="width: 85%; max-width: 100%; min-width: 100%;"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/104382853/217149894-9fc2da0a-aca9-4a67-bc3f-5a2d6f48d40d.gif" style="width: 84%; max-width: 100%; min-width: 100%;"/></div>
 
 <br/>
 <div align="center"><img src="https://visitcount.itsvg.in/api?id=rupam-seal&icon=8&color=2"></div>
