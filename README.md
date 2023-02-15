@@ -17,7 +17,9 @@
 <div align="center"> 
 <img src="https://streak-stats.demolab.com?user=rupam-seal&theme=dark">
 </div>
+                                                                      
+<br/>
                                                                                                                                    
-<div align='center' style="width: 84%; max-width: 100%; min-width: 100%;"><h3>If you liked my profile, you can star⭐the repo and if you want to use this template you can fork it and use it. </h3> </div>
+<div align='center'><p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/rupam-seal/rupam-seal>the repo</a> and if you want to use this template you can <a href=https://github.com/rupam-seal/rupam-seal/fork> <b>fork it</b></a> and use it.</p></div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) (https://dribbble.com/romainbriaux) -->
